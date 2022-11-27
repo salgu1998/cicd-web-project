@@ -5,8 +5,8 @@
     <h2>It's working on Tomcat server(9.0.65)</h2>
     <hr>
     <h1>${msg}</h1>
-    <h1>Have a nice day.</h1>
+    <h1>SSH 젠킨스 자동배포 테스트 </h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
-    <h3>Version: 1.1</h3>
+    <h3>Version: 1.2</h3>
 </body>
 </html>
